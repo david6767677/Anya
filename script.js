@@ -7,7 +7,7 @@ function startQuestions() {
       document.getElementById("que").style.display = "none";
       document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "I believe in love at first sight too! How about we go on a date and see if it's true?";
+    document.getElementById("messageText").innerText = "I believe in Love and Destiny too! How about we go on a date and see if it's true?";
     showConfetti()
 }
   
